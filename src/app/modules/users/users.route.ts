@@ -1,7 +1,7 @@
-import express, { Router } from "express";
+import express from 'express'
 
-const router = express.Router();
+const router = express.Router()
 
-router.post("/create-user");
+router.post('/create-user')
 
-export default router;
+export default router
