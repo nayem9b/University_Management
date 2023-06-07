@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "F:\\Projects\\Husky is prettier\\logs\\errors\\.2c87416166e8eee4a8d3feda1de98af96ce067ac-audit.json",
-    "files": [
-        {
-            "date": 1686168550798,
-            "name": "F:\\Projects\\Husky is prettier\\logs\\errors\\UM-2023-08-06-02-error.log",
-            "hash": "070bb4b23cd9602c018a3fbad60d896f10860a267169bb942e476a6f302f47c4"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "F:\\Projects\\Husky is prettier\\logs\\errors\\.2c87416166e8eee4a8d3feda1de98af96ce067ac-audit.json",
+  "files": [
+    {
+      "date": 1686168550798,
+      "name": "F:\\Projects\\Husky is prettier\\logs\\errors\\UM-2023-08-06-02-error.log",
+      "hash": "070bb4b23cd9602c018a3fbad60d896f10860a267169bb942e476a6f302f47c4"
+    }
+  ],
+  "hashType": "sha256"
 }
