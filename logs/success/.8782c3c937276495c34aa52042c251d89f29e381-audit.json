@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Projects\\Husky is prettier\\logs\\success\\.8782c3c937276495c34aa52042c251d89f29e381-audit.json",
+    "files": [
+        {
+            "date": 1686168550795,
+            "name": "F:\\Projects\\Husky is prettier\\logs\\success\\UM-2023-08-06-02-success.log",
+            "hash": "d32155dd907f6efe1e2440afebaab0ec2076c8783bc7a583f54e3271f71d2fc2"
+        }
+    ],
+    "hashType": "sha256"
+}
